@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atanas-Stanchev
-- 👀 I’m interested in js, vuejs, nodejs, php, docker
+- 👀 I’m interested in php, nodejs, docker, js, vuejs
 - 🌱 I’m currently learning docker, kubernetes
 - 💞️ I’m working as a full-stack web dev
 - 📫 How to reach me atanas.stanchev@protonmail.com
